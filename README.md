@@ -13,7 +13,7 @@
     <!-- 第十行 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://C15043.github.io/xls/028">
+        <a target="_blank" href="https://C15043.github.io/C15043/028">
             <p align="center">028</p>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/028.jpg"/>
         </a>
