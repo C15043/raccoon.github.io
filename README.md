@@ -1,5 +1,3 @@
-# C15043.github.io
-
 <div align="center">
     <img  width=180 src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/logo.png"/>
     <h1>✨I like you very much.✨</h1> 
@@ -13,7 +11,7 @@
     <!-- 第十行 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://C15043.github.io/C15043.github.io/028/">
+        <a target="_blank" href="https://C15043.github.io/C15043.github.io/028">
             <p align="center">028</p>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/028.jpg"/>
         </a>
